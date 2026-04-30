@@ -1,6 +1,6 @@
 {
   "Version": "1.0.4",
-  "DownloadUrl": "https://github.com/Rofix033034/KlesLwRdesktopmacroupdates/raw/main/KlesLwR_v1.0.4_Full.exe",
+  "DownloadUrl": "https://github.com/Rofix033034/KlesLwRdesktopmacroupdates/raw/main/KlesLwR_Full.exe",
   "Changelog": "KlesLwR 1.0.4 Update\n- Fixed Instant Lethal spin speed slowdown over time.\n- Fixed Dripz Dash performing a backward dash instead of forward.\n- Resolved UI visibility issues in the macro config editor (white text fixed).\n- Fixed Premium key activation issues (lifetime keys correctly recognized).\n- Performance improvements and optimizations.",
   "Mandatory": true
 }

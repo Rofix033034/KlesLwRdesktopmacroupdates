@@ -1,6 +1,7 @@
 {
-  "Version": "1.0.8",
-  "DownloadUrl": "https://github.com/Rofix033034/KlesLwRdesktopmacroupdates/releases/download/v1.0.8/KlesLwR_Full_v1.0.8.exe",
-  "Changelog": "KlesLwR 1.0.8 — installers are hosted on GitHub Releases only (not in the repo tree). Update update.json DownloadUrl when you publish a new release asset.",
+  "Version": "1.0.9",
+  "DownloadUrl": "https://github.com/Rofix033034/KlesLwRdesktopmacroupdates/releases/download/v1.0.9/KlesLwR_Full_v1.0.9.exe",
+  "LiteDownloadUrl": "https://github.com/Rofix033034/KlesLwRdesktopmacroupdates/releases/download/v1.0.9/KlesLwR_Lite_v1.0.9.exe",
+  "Changelog": "KlesLwR 1.0.9 — Full and Lite builds on GitHub Releases. In-app updates use the latest release tag from this repo.",
   "Mandatory": true
 }
